@@ -1,0 +1,23 @@
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Лог-файлы
+*.log
+
+# Файлы дистрибутивов
+dist/
+build/
+*.egg-info/
